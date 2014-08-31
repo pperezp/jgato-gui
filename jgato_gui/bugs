@@ -1,0 +1,6 @@
+#1: En una partida local, cuando un jugador gana, se puede seguir jugando.
+#2: Deberia cambiar el titulo de la ventana cuando el usuario esta jugando en red
+#3: Botón jugada atrás sólo en local
+#4: deshabilitar los botones necesarios cuando uno inicia un juego multijugador
+#5: Enviar algun mensaje al usuario cuando estan jugando en multijugador y uno se
+desconecta
